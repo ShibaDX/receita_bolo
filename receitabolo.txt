@@ -29,7 +29,7 @@ Escreval("Primeiramente escolha o sabor de bolo que será feito")
   Escreva("Sabor: ")
   leia(op)
   
-  Escreval(" Verificar ingrediantes: ")
+  Escreval(" Verificar ingredientes: ")
   Escreval(" Farinha, Fermento, Ovo, Açucar, Manteiga e (Sabor da escolha)")
   Escreval(" Caso falte algum ingrediente ou o sabor do bolo escolhido, favor pedir no ifood ou ir comprar no mercado mais proximo")
   Escreval(" Após verificar os ingredientes e ter validado ir para a etapa de preparação")
@@ -49,7 +49,7 @@ Escreval("Primeiramente escolha o sabor de bolo que será feito")
   leia(op)
   adasdhqofuhbflehnfopafhneine
 
-  Escreval(" Verificar ingrediantes: ")
+  Escreval(" Verificar ingredientes: ")
   Escreval(" Sabor da cobertura, açucar, manteiga, leite, leite condensado ")
   Escreval(" Caso falte algum ingrediente ou o sabor do bolo escolhido, favor pedir no ifood ou ir comprar no mercado mais proximo")
   Escreval(" Após verificar os ingredientes e ter validado ir para a etapa de preparação")
