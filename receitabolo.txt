@@ -13,6 +13,7 @@ Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 Escreva ("==== Receita de Bolo ===")
 
+// Escolher o sabor e verificar ingredientes
 Escreval("Bem-Vindo a ReceitaSuprema de bolo, siga as instruçõespara fazer um bolo impecável")
 Escreval("Primeiramente escolha o sabor de bolo que será feito")
 
@@ -33,7 +34,15 @@ Escreval("Primeiramente escolha o sabor de bolo que será feito")
   Escreval(" Farinha, Fermento, Ovo, Açucar, Manteiga e (Sabor da escolha)")
   Escreval(" Caso falte algum ingrediente ou o sabor do bolo escolhido, favor pedir no ifood ou ir comprar no mercado mais proximo")
   Escreval(" Após verificar os ingredientes e ter validado ir para a etapa de preparação")
+
+  // Preparar o bolo
   
+
+  // Assar bolo
+
+
+
+  // Escolher cobertura e verificar ingredientes
   Escreval("Escolha a cobertura agora")
   Escreval("[1]  Laranja")
   Escreval("[2]  Chocolate")
@@ -47,7 +56,6 @@ Escreval("Primeiramente escolha o sabor de bolo que será feito")
   Escreval("[10] Maracujá")
   Escreva("Sabor: ")
   leia(op)
-  adasdhqofuhbflehnfopafhneine
 
   Escreval(" Verificar ingredientes: ")
   Escreval(" Sabor da cobertura, açucar, manteiga, leite, leite condensado ")
