@@ -47,6 +47,7 @@ Escreval("Primeiramente escolha o sabor de bolo que será feito")
   Escreval("[10] Maracujá")
   Escreva("Sabor: ")
   leia(op)
+  adasdhqofuhbflehnfopafhneine
 
   Escreval(" Verificar ingrediantes: ")
   Escreval(" Sabor da cobertura, açucar, manteiga, leite, leite condensado ")
