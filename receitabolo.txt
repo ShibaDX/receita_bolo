@@ -1,0 +1,56 @@
+Algoritmo "receitaDeBolo"
+// Disciplina   : [COde Review]
+// Professor   : Fernado Clavisso
+// Descrição   : Um algoritmo de receita de bolo.
+// Autor(a)    : Mestres
+// Data atual  : 28/04/2025
+Var
+op : inteiro
+
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+Escreva ("==== Receita de Bolo ===")
+
+Escreval("Bem-Vindo a ReceitaSuprema de bolo, siga as instruçõespara fazer um bolo impecável")
+Escreval("Primeiramente escolha o sabor de bolo que será feito")
+
+  Escreval("[1]  Laranja")
+  Escreval("[2]  Chocolate")
+  Escreval("[3]  Morango")
+  Escreval("[4]  Coco")
+  Escreval("[5]  Limão")
+  Escreval("[6]  Fubá")
+  Escreval("[7]  Milho")
+  Escreval("[8]  Mandioca")
+  Escreval("[9]  Café")
+  Escreval("[10] Maracujá")
+  Escreva("Sabor: ")
+  leia(op)
+  
+  Escreval(" Verificar ingrediantes: ")
+  Escreval(" Farinha, Fermento, Ovo, Açucar, Manteiga e (Sabor da escolha)")
+  Escreval(" Caso falte algum ingrediente ou o sabor do bolo escolhido, favor pedir no ifood ou ir comprar no mercado mais proximo")
+  Escreval(" Após verificar os ingredientes e ter validado ir para a etapa de preparação")
+  
+  Escreval("Escolha a cobertura agora")
+  Escreval("[1]  Laranja")
+  Escreval("[2]  Chocolate")
+  Escreval("[3]  Morango")
+  Escreval("[4]  Coco")
+  Escreval("[5]  Limão")
+  Escreval("[6]  Fubá")
+  Escreval("[7]  Milho")
+  Escreval("[8]  Mandioca")
+  Escreval("[9]  Café")
+  Escreval("[10] Maracujá")
+  Escreva("Sabor: ")
+  leia(op)
+
+  Escreval(" Verificar ingrediantes: ")
+  Escreval(" Sabor da cobertura, açucar, manteiga, leite, leite condensado ")
+  Escreval(" Caso falte algum ingrediente ou o sabor do bolo escolhido, favor pedir no ifood ou ir comprar no mercado mais proximo")
+  Escreval(" Após verificar os ingredientes e ter validado ir para a etapa de preparação")
+  
+Fimalgoritmo
