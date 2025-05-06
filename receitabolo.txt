@@ -37,6 +37,8 @@ Escreval("Primeiramente escolha o sabor de bolo que será feito")
 
   // Preparar o bolo
   
+  Escreval(" Misturar os ingredientes principais (farinha, fermento, ovo, açúcar, manteiga) e sabor da escolha ")
+  Escreval(" Despejar a mistura em uma forma de bolo ")
 
   // Assar bolo
 
